@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <CountdownTimer />
+      <CountdownTimer countdownTimestampMs={16436736000000} />
     </div>
   );
 }
