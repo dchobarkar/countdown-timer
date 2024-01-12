@@ -8,19 +8,15 @@ This project is a React-based countdown timer. The timer is designed to count do
 
 To install this project, clone the repo and install the dependencies.
 
-\```bash
-git clone https://github.com/dchobarkar/react-countdown-timer.git
-cd react-countdown-timer
-npm install
-\```
+    $ git clone https://github.com/dchobarkar/countdown-timer.git
+    $ cd countdown-timer
+    $ npm install
 
 ## Usage
 
 To run the countdown timer, execute the following command:
 
-\```bash
-npm start
-\```
+    $ npm start
 
 Navigate to `http://localhost:3000` in your browser to view the application.
 
@@ -48,4 +44,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Darshan Chobarkar - [@dchobarkar](https://www.linkedin.com/in/dchobarkar/) - [@barbatos\_\_08](https://twitter.com/barbatos__08) - contact@darshanwebdev.com
 
-Project Link: [https://github.com/dchobarkar/react-countdown-timer](https://github.com/dchobarkar/react-countdown-timer)
+Project Link: [https://github.com/dchobarkar/countdown-timer](https://github.com/dchobarkar/countdown-timer)
