@@ -11,6 +11,7 @@ export function getRemainingTimeUntilMsTimestamp(timestampMs) {
       hours: "00",
       days: "00",
     };
+
   return {
     seconds: getRemainingSeconds(nowDayjs, timestampDayjs),
     minutes: getRemainingMinutes(nowDayjs, timestampDayjs),
